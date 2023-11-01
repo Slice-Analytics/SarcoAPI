@@ -3,7 +3,7 @@
 # Project Title: SarcoAPI
 
 ## Description: 
-FastAPI endpoint for the $SARCO circulating supply. This data will be fed to CoinMarketCap.com by the SARCO team to ensure the circulating supply is updated frequently.
+This project calculates the circulating supply of $SARCO using Dune. A FastAPI endpoint is then created to all for the proper formating prior to Coinmarketcap.com ingestion.
 
 ## Table of Contents
 
